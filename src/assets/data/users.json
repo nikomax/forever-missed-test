@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "",
+    "email": "example@email.com",
+    "role": "Guest"
+  },
+  {
+    "id": "2",
+    "name": "John Wick",
+    "email": "example@email.com",
+    "role": "Guest"
+  },
+  {
+    "id": "3",
+    "name": "Bruce Wayne",
+    "email": "example@email.com",
+    "role": "Admin"
+  },
+  {
+    "id": "4",
+    "name": "Jose Galdino",
+    "email": "example@email.com",
+    "role": "Guest"
+  },
+  {
+    "id": "5",
+    "name": "",
+    "email": "example@email.com",
+    "role": "Guest"
+  },
+  {
+    "id": "6",
+    "name": "John Wick",
+    "email": "example@email.com",
+    "role": "Guest"
+  },
+  {
+    "id": "7",
+    "name": "Bruce Wayne",
+    "email": "example@email.com",
+    "role": "Guest"
+  }
+]
